@@ -3,5 +3,6 @@ order some pizza
 order online
 delivery person arrived
 be friendly
-tip him
+tip him 
 enjoy
+done
